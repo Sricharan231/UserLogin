@@ -1,0 +1,59 @@
+.auth-wrapper {
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.auth-inner {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    width:40%;
+}
+
+.auth-inner h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.auth-inner .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.auth-inner .btn-primary {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.auth-inner .btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.auth-inner .forgot-password {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.auth-inner .forgot-password a {
+    color: #007bff;
+}
+
+.auth-inner .forgot-password a:hover {
+    text-decoration: underline;
+}
+
+.auth-inner h4 {
+    text-align: center;
+    color: brown;
+    margin-top: 10px;
+}
